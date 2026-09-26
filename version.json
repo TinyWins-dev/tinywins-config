@@ -1,0 +1,16 @@
+
+{
+  "android": {
+    "enabled": false,
+    "latestBuild": 0,
+    "minimumBuild": 0,
+    "storeUrl": ""
+  },
+  "ios": {
+    "enabled": false,
+    "latestBuild": 0,
+    "minimumBuild": 0,
+    "storeUrl": ""
+  }
+}
+

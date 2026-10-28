@@ -2,8 +2,8 @@
 {
   "android": {
     "enabled": true,
-    "latestBuild": 4,
-    "minimumBuild": 4,
+    "latestBuild": 3,
+    "minimumBuild": 3,
     "storeUrl": "https://play.google.com/store/apps/details?id=com.plainleaf.tinywins"
   },
   "ios": {

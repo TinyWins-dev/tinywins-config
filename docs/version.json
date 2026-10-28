@@ -1,10 +1,10 @@
 
 {
   "android": {
-    "enabled": false,
-    "latestBuild": 0,
-    "minimumBuild": 0,
-    "storeUrl": ""
+    "enabled": true,
+    "latestBuild": 4,
+    "minimumBuild": 4,
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.plainleaf.tinywins"
   },
   "ios": {
     "enabled": false,
